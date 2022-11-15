@@ -1,4 +1,4 @@
 # loyal-angular
-loyal angular curso
-##clase112/feature
-##new comment because why not
+curso angular loyal
+# comandos
+# Clase1 : git + comandos
